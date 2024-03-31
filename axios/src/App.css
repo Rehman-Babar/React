@@ -1,0 +1,18 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+.grid{
+  margin: 20px;
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+}
+.card{
+  padding: 2em;
+  border: 2px solid gray;
+}
+h2,p{
+  text-align: center;
+}
