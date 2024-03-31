@@ -1,0 +1,56 @@
+
+
+
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.rk{
+  height: 200px;
+  width: 100%;
+  background-color: crimson;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box{
+  display: flex;
+  justify-content: space-around;
+}
+h1{
+  text-align: center;
+  position: absolute;
+  top: 25px;
+  left: 41%;
+}
+div{
+  text-align: center;
+}
+input, button{
+  margin-top: 70px;
+}
+.name{
+  margin-top: 15px;
+}
+.nam{
+  margin-top: 15px;
+}
+h2{
+  margin-top: 80px;
+  text-align: center;
+}
+
+.box2{
+  margin: auto;
+}
+.data2{
+  display: flex;
+  justify-content: space-around;
+  box-shadow:-1px -1px 5px black;
+  margin-top: 35px;
+  margin:35px 8% 0 8%;
+
+}
+
